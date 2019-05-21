@@ -34,5 +34,5 @@ steps:
   inputs:
     azureSubscription: '91181ee9-a39c-4a97-bcc8-4d058d355280'
     appType: webApp
-    appName: 'AnewWebAppTraseng'
+    appName: 'raseng1'
     package: $(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip
